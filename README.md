@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav aka @prnvv2
-- 👀 I’m interested in Cyber security, Computer security and Ehtical Hacking
+- 👀 I’m interested in Penetration Testing, Ethical Hacking, and Cyber Security and Programming 
 - 🌱 I’m currently learning Cryptography 
 - 💞️ I’m looking for internship and collobration opportunity 
 - 📫 How to reach me work.pranavamale@gmail.com
