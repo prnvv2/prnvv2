@@ -5,6 +5,7 @@
 - 📫 How to reach me work.pranavamale@gmail.com
 - 😄 Pronouns: he/him
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2182193" style='border:none;'></iframe>
 
 <!---
 prnvv2/prnvv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
