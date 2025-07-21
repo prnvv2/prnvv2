@@ -94,6 +94,7 @@ I'm a passionate cybersecurity enthusiast specializing in **Penetration Testing*
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![John the Ripper](https://www.google.com/imgres?q=john%20the%20ripper%20download&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A750%2F0*AUUchPlRknqYeQhP.jpg&imgrefurl=https%3A%2F%2Finfosecwriteups.com%2Funveiling-the-power-of-john-the-ripper-a-beginners-guide-to-password-cracking-a9846172b35a&docid=YrjGsRrdNZSKQM&tbnid=Vrkfgf4lZ0TRWM&vet=12ahUKEwiN4J3Hgc6OAxUt2DgGHV5rNPwQM3oECCIQAA..i&w=750&h=422&hcb=2&ved=2ahUKEwiN4J3Hgc6OAxUt2DgGHV5rNPwQM3oECCIQAA)
 
 ### **Operating Systems**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
