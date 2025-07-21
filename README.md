@@ -1,12 +1,3 @@
-- 👋 Hi, I’m Pranav aka @prnvv2
-- 👀 I’m interested in Penetration Testing, Ethical Hacking, and Cyber Security and Programming 
-- 🌱 I’m currently learning Cryptography 
-- 💞️ I’m looking for internship and collobration opportunity 
-- 📫 How to reach me work.pranavamale@gmail.com
-- 😄 Pronouns: he/him
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2182193" style='border:none;'></iframe>
-
 # Hi there! 👋 I'm Pranav (@prnvv2)
 
 <div align="center">
@@ -44,27 +35,6 @@ PowerShell   1 hr 10 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🗓️ **Learning Timeline 2024-2025**
-
-```mermaid
-timeline
-    title My Cybersecurity Journey
-    section Q4 2024
-        October     : Completed TryHackMe Red Team Path
-        November    : Started OSCP Lab Access
-        December    : First Bug Bounty Submission
-    section Q1 2025
-        January     : Advanced Web Application Testing
-        February    : Mobile Application Security
-        March       : Cloud Security Specialization
-    section Q2 2025
-        April       : OSCP Exam Preparation
-        May         : Network Security Focus
-        June        : AI/ML Security Research
-```
-
----
-
 ## 🎯 **About Me**
 
 I'm a passionate cybersecurity enthusiast specializing in **Penetration Testing** and **Ethical Hacking**. My journey in cybersecurity is driven by curiosity and a commitment to making the digital world safer. I thrive on solving complex security challenges and continuously expanding my knowledge in the ever-evolving landscape of cybersecurity.
@@ -75,11 +45,11 @@ I'm a passionate cybersecurity enthusiast specializing in **Penetration Testing*
 - 💻 **Programming**: Building security tools and automation scripts
 - 🔍 **Research**: Staying updated with latest cybersecurity threats and defense mechanisms
 - 🚩 **CTF Participation**: Actively participating in Capture The Flag competitions
-- 📖 **Continuous Learning**: OSCP preparation and advanced red team techniques
+- 📖 **Continuous Learning**: CEH preparation and advanced red team techniques
 
 ---
 
-## 🛠️ **Technical Skills & Tools**
+## 🛠️ **Technical Skills & Arsenal**
 
 <div align="center">
 
@@ -88,24 +58,107 @@ I'm a passionate cybersecurity enthusiast specializing in **Penetration Testing*
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### **Penetration Testing Tools**
+### **🎯 Penetration Testing & Exploitation Frameworks**
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-FF4444?style=for-the-badge&logoColor=white)
+![Empire](https://img.shields.io/badge/PowerShell_Empire-5391FE?style=for-the-badge&logoColor=white)
+![BeEF](https://img.shields.io/badge/BeEF-8B0000?style=for-the-badge&logoColor=white)
+![Social Engineer Toolkit](https://img.shields.io/badge/SET-32CD32?style=for-the-badge&logoColor=white)
+
+### **🌐 Web Application Testing**
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-FF4500?style=for-the-badge&logoColor=white)
+![Dirb](https://img.shields.io/badge/Dirb-8A2BE2?style=for-the-badge&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-FFD700?style=for-the-badge&logoColor=black)
+
+### **🔍 Network Analysis & Reconnaissance**
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![John the Ripper](https://www.google.com/imgres?q=john%20the%20ripper%20download&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A750%2F0*AUUchPlRknqYeQhP.jpg&imgrefurl=https%3A%2F%2Finfosecwriteups.com%2Funveiling-the-power-of-john-the-ripper-a-beginners-guide-to-password-cracking-a9846172b35a&docid=YrjGsRrdNZSKQM&tbnid=Vrkfgf4lZ0TRWM&vet=12ahUKEwiN4J3Hgc6OAxUt2DgGHV5rNPwQM3oECCIQAA..i&w=750&h=422&hcb=2&ved=2ahUKEwiN4J3Hgc6OAxUt2DgGHV5rNPwQM3oECCIQAA)
+![Masscan](https://img.shields.io/badge/Masscan-FF6347?style=for-the-badge&logoColor=white)
+![Zenmap](https://img.shields.io/badge/Zenmap-4682B4?style=for-the-badge&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-00CED1?style=for-the-badge&logoColor=white)
+![TCPdump](https://img.shields.io/badge/TCPdump-228B22?style=for-the-badge&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-DC143C?style=for-the-badge&logoColor=white)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-9932CC?style=for-the-badge&logoColor=white)
 
-### **Operating Systems**
+### **🔐 Wireless & Bluetooth Testing**
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF1493?style=for-the-badge&logoColor=white)
+![Kismet](https://img.shields.io/badge/Kismet-FF69B4?style=for-the-badge&logoColor=white)
+![Wifite](https://img.shields.io/badge/Wifite-00FFFF?style=for-the-badge&logoColor=black)
+![Bluetooth](https://img.shields.io/badge/Bluez_Tools-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Wifiphisher](https://img.shields.io/badge/Wifiphisher-FF4500?style=for-the-badge&logoColor=white)
+
+### **🕵️ Digital Forensics & Analysis**
+![Autopsy](https://img.shields.io/badge/Autopsy-800080?style=for-the-badge&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-8B4513?style=for-the-badge&logoColor=white)
+![Foremost](https://img.shields.io/badge/Foremost-2E8B57?style=for-the-badge&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF4500?style=for-the-badge&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)
+
+### **🛡️ Privilege Escalation & Post-Exploitation**
+![LinPEAS](https://img.shields.io/badge/LinPEAS-32CD32?style=for-the-badge&logoColor=white)
+![WinPEAS](https://img.shields.io/badge/WinPEAS-0078D6?style=for-the-badge&logoColor=white)
+![GTFOBins](https://img.shields.io/badge/GTFOBins-FF6347?style=for-the-badge&logoColor=white)
+![LOLBAS](https://img.shields.io/badge/LOLBAS-4682B4?style=for-the-badge&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-DC143C?style=for-the-badge&logoColor=white)
+
+### **🔧 Custom Tools & Utilities**
+![Custom Scripts](https://img.shields.io/badge/Custom_Python_Scripts-FFD700?style=for-the-badge&logo=python&logoColor=black)
+![Bash Automation](https://img.shields.io/badge/Bash_Automation-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell Modules](https://img.shields.io/badge/PowerShell_Modules-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### **📱 Mobile Application Security**
+![MobSF](https://img.shields.io/badge/MobSF-FF4444?style=for-the-badge&logoColor=white)
+![APKTool](https://img.shields.io/badge/APKTool-32CD32?style=for-the-badge&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-FF6B35?style=for-the-badge&logoColor=white)
+![Drozer](https://img.shields.io/badge/Drozer-8A2BE2?style=for-the-badge&logoColor=white)
+
+### **☁️ Cloud Security Tools**
+![ScoutSuite](https://img.shields.io/badge/ScoutSuite-FF9500?style=for-the-badge&logoColor=white)
+![Prowler](https://img.shields.io/badge/Prowler-FF6B00?style=for-the-badge&logoColor=white)
+![CloudGoat](https://img.shields.io/badge/CloudGoat-FF9900?style=for-the-badge&logoColor=white)
+![Pacu](https://img.shields.io/badge/Pacu-232F3E?style=for-the-badge&logoColor=white)
+
+### **🎮 CTF & Challenge Platforms**
+![PicoCTF](https://img.shields.io/badge/PicoCTF-0066CC?style=for-the-badge&logoColor=white)
+![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logoColor=white)
+![RootMe](https://img.shields.io/badge/Root--Me-FF6B35?style=for-the-badge&logoColor=white)
+![HackThis](https://img.shields.io/badge/HackThis-4B0082?style=for-the-badge&logoColor=white)
+
+### **Operating Systems & Distributions**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-5DADE2?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+![Parrot Security](https://img.shields.io/badge/Parrot_Security-5DADE2?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logoColor=white)
+![Pentoo](https://img.shields.io/badge/Pentoo-5B2C87?style=for-the-badge&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 
-### **Frameworks & Methodologies**
+### **🔒 Cryptography & Steganography**
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![GnuPG](https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![Steghide](https://img.shields.io/badge/Steghide-8B4513?style=for-the-badge&logoColor=white)
+![StegSolve](https://img.shields.io/badge/StegSolve-9932CC?style=for-the-badge&logoColor=white)
+
+### **📊 Reporting & Documentation**
+![Dradis](https://img.shields.io/badge/Dradis-FF4444?style=for-the-badge&logoColor=white)
+![CherryTree](https://img.shields.io/badge/CherryTree-228B22?style=for-the-badge&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+### **🌐 Frameworks & Methodologies**
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST-0066CC?style=for-the-badge&logo=nist&logoColor=white)
 ![PTES](https://img.shields.io/badge/PTES-FF4500?style=for-the-badge&logoColor=white)
+![OSSTMM](https://img.shields.io/badge/OSSTMM-4B0082?style=for-the-badge&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -119,29 +172,19 @@ I'm a passionate cybersecurity enthusiast specializing in **Penetration Testing*
 <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2182193" alt="TryHackMe Badge" />
 
 ### **Pursuing Certifications**
-![OSCP](https://img.shields.io/badge/OSCP-In_Progress-yellow?style=for-the-badge&logo=offensive-security&logoColor=white)
-![CEH](https://img.shields.io/badge/CEH-Planned-blue?style=for-the-badge&logo=eccouncil&logoColor=white)
-![Security+](https://img.shields.io/badge/Security+-Target-red?style=for-the-badge&logo=comptia&logoColor=white)
+![CEH-V13](https://img.shields.io/badge/CEH-V13-blue?style=for-the-badge&logo=eccouncil&logoColor=white)
+
 
 ### **Training Platforms**
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Member-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![VulnHub](https://img.shields.io/badge/VulnHub-Active-FF6B35?style=for-the-badge&logo=vulnhub&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/TryHackeMe-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-Web_Security_Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 **Current Projects & Research**
 
-### 🔧 **Active Projects**
-- 🛡️ **Vulnerability Scanner** - Python-based automated vulnerability assessment tool
-- 🔐 **Cryptography Toolkit** - Collection of encryption/decryption utilities
-- 🌐 **Network Security Monitor** - Real-time network traffic analysis tool
-- 📊 **Penetration Testing Framework** - Custom framework for structured pen-tests
-- 🎯 **CTF Write-ups Repository** - Detailed solutions and methodologies
-
-### 📚 **Research Areas**
+### 📚 **Research Interest Areas**
 - **Zero-Day Vulnerability Research** - Identifying and responsibly disclosing security flaws
 - **IoT Security Assessment** - Security testing of Internet of Things devices
 - **Cloud Security Architecture** - Secure cloud deployment and configuration
@@ -153,30 +196,10 @@ I'm a passionate cybersecurity enthusiast specializing in **Penetration Testing*
 ## 🏆 **Achievements & Recognition**
 
 ```
-🥇 CTF Competition Winner (Local University Competition 2024)
-🏅 Top 10% on TryHackMe Global Leaderboard
+🥇 CTF Competition Winner
+🏅 Top 5% on TryHackMe Global Leaderboard
 🎖️ Bug Bounty Recognition - Responsible Disclosure
-📈 95% Score on PortSwigger Web Security Academy
-🌟 Community Contributor - Cybersecurity Forums
 ```
-
----
-
-## 📝 **Knowledge Sharing & Community**
-
-### **Blog & Write-ups**
-- 📖 **Technical Blog**: Sharing penetration testing methodologies
-- 🔍 **CTF Write-ups**: Detailed walkthroughs of challenges solved
-- 🛡️ **Security Advisories**: Vulnerability research findings
-- 💡 **Tool Reviews**: Analysis of latest cybersecurity tools
-
-### **Community Involvement**
-- 🎤 **Speaker**: Local cybersecurity meetups and workshops
-- 👥 **Mentor**: Guiding newcomers in cybersecurity
-- 🌐 **Open Source**: Contributing to security tools and frameworks
-- 📚 **Study Groups**: Leading OSCP preparation groups
-
----
 
 ## 🔧 **Areas of Expertise**
 
@@ -236,19 +259,18 @@ I'm always excited to connect with fellow cybersecurity professionals, researche
   </tr>
   <tr>
     <td align="center">
-      📧 work.pranavamale@gmail.com<br>
+      📧 work.pranavamale@gmail.com/amalepranav2@gmail.com<br>
       💼 Open for Internships<br>
       🤝 Available for Collaboration
     </td>
     <td align="center">
       🐙 GitHub: @prnvv2<br>
       🔗 LinkedIn: Connect with me<br>
-      🐦 Twitter: @prnvv2_sec
+      🐦 Twitter: @PranavAmale
     </td>
     <td align="center">
-      🎮 TryHackMe: prnvv2<br>
-      📦 HackTheBox: prnvv2<br>
-      🎯 OSCP: In Progress
+      🎮 TryHackMe: pranavamale<br>
+      🎯 CEH-V13: In Progress
     </td>
   </tr>
 </table>
@@ -277,19 +299,19 @@ I'm always excited to connect with fellow cybersecurity professionals, researche
 
 ---
 
-## 🌐 **Latest Blog Posts & Write-ups**
+<!-- ## 🌐 **Latest Blog Posts & Write-ups**
 
-<!-- BLOG-POST-LIST:START -->
+BLOG-POST-LIST:START 
 - 🔐 [Advanced SQL Injection Techniques in Modern Web Applications](https://medium.com/@prnvv2)
 - 🛡️ [Building a Custom Network Scanner with Python](https://dev.to/prnvv2)
 - 🎯 [My Journey Through TryHackMe: Red Team Path](https://prnvv2.github.io/blog)
 - 🔍 [Analyzing Malware: A Beginner's Guide to Static Analysis](https://prnvv2.github.io/blog)
 - ⚡ [Automating Reconnaissance with Bash Scripts](https://prnvv2.github.io/blog)
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:END -->
 
 ---
 
-## 🎯 **Featured Repositories**
+<!-- ## 🎯 **Featured Repositories**
 
 <div align="center">
 
@@ -298,7 +320,7 @@ I'm always excited to connect with fellow cybersecurity professionals, researche
 [![Network-Scanner](https://github-readme-stats.vercel.app/api/pin/?username=prnvv2&repo=network-scanner&theme=radical)](https://github.com/prnvv2/network-scanner)
 [![CTF-Writeups](https://github-readme-stats.vercel.app/api/pin/?username=prnvv2&repo=ctf-writeups&theme=radical)](https://github.com/prnvv2/ctf-writeups)
 
-</div>
+</div> -->
 
 ---
 
@@ -316,42 +338,10 @@ I'm always excited to connect with fellow cybersecurity professionals, researche
 
 ---
 
-### 📞 **Quick Contact**
-
-<table>
-  <tr>
-    <td align="center"><strong>💼 Professional</strong></td>
-    <td align="center"><strong>🌐 Social</strong></td>
-    <td align="center"><strong>📚 Learning</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      📧 work.pranavamale@gmail.com<br>
-      💼 Open for Internships<br>
-      🤝 Available for Collaboration
-    </td>
-    <td align="center">
-      🐙 GitHub: @prnvv2<br>
-      🔗 LinkedIn: Connect with me<br>
-      🐦 Twitter: @prnvv2_sec
-    </td>
-    <td align="center">
-      🎮 TryHackMe: prnvv2<br>
-      📦 HackTheBox: prnvv2<br>
-      🎯 OSCP: In Progress
-    </td>
-  </tr>
-</table>
 
 **Response Time**: Usually within 24 hours • **Timezone**: IST (UTC+5:30) • **Languages**: English, Hindi
 
 </div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/prnvv2/prnvv2/blob/output/github-contribution-grid-snake.svg)
 
 **⭐ Star my repositories if you find them useful! ⭐**
 
