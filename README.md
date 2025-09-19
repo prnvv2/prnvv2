@@ -40,12 +40,11 @@ PowerShell   1 hr 10 mins    █░░░░░░░░░░░░░░░░
 I'm a passionate cybersecurity enthusiast specializing in **Penetration Testing** and **Ethical Hacking**. My journey in cybersecurity is driven by curiosity and a commitment to making the digital world safer. I thrive on solving complex security challenges and continuously expanding my knowledge in the ever-evolving landscape of cybersecurity.
 
 ### 🔐 **Current Focus**
-- 🌱 **Learning**: Advanced Cryptography techniques and implementations
 - 🎯 **Specializing in**: Penetration Testing, Vulnerability Assessment, and Ethical Hacking
 - 💻 **Programming**: Building security tools and automation scripts
 - 🔍 **Research**: Staying updated with latest cybersecurity threats and defense mechanisms
 - 🚩 **CTF Participation**: Actively participating in Capture The Flag competitions
-- 📖 **Continuous Learning**: CEH preparation and advanced red team techniques
+- 📖 **Continuous Learning**: Agentic AI, Offensice security and Defensive security 
 
 ---
 
