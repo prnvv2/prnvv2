@@ -196,8 +196,7 @@ I'm a passionate cybersecurity enthusiast specializing in **Penetration Testing*
 
 ```
 🥇 CTF Competition Winner
-🏅 Top 5% on TryHackMe Global Leaderboard
-🎖️ Bug Bounty Recognition - Responsible Disclosure
+🏅 Top 4% on TryHackMe Global Leaderboard
 ```
 
 ## 🔧 **Areas of Expertise**
@@ -268,8 +267,6 @@ I'm always excited to connect with fellow cybersecurity professionals, researche
       🐦 Twitter: @PranavAmale
     </td>
     <td align="center">
-      🎮 TryHackMe: pranavamale<br>
-      🎯 CEH-V13: In Progress
     </td>
   </tr>
 </table>
