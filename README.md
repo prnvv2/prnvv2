@@ -55,7 +55,7 @@ Pentesting, vulnerability assessment, and SOC ops by trade. Obsessed with where 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,git,github,fastapi,postgresql,mongodb,kubernetes,aws" />
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,git,github,fastapi,postgresql,mongodb,kubernetes,aws, ollama,anthorpic,OpenAI,Kimi,Deepseek" />
 
 </p>
 
@@ -66,6 +66,7 @@ Pentesting, vulnerability assessment, and SOC ops by trade. Obsessed with where 
 `Offensive Security` · `Penetration Testing` · `RAG Security`
 
 `Prompt Injection` · `Jailbreak Testing` · `MITRE ATLAS` · `Autonomous Security`
+
 
 
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
