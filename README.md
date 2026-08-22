@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm prnvv2 👋
+# Hi, I'm Pranav Amale
 
 ### Cybersecurity Practitioner | Offensive Security | AI Security
 
@@ -24,67 +24,29 @@ Pentesting, vulnerability assessment, and SOC ops by trade. Obsessed with where 
 
 ## 🧰 Tools
 ## Tech Stack
+🧪 Tech Stack
 
-### AI / LLM
+OS
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,bash" />
 
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+Languages
 
-</p>
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,js,cpp,sql" />
 
-**LLMs & Models**
+Security Tools
 
-`Ollama` · `Hugging Face` · `DeepSeek` · `Kimi` · `Claude` · `Llama` · `Qwen` · `Mistral`
+<img src="https://skillicons.dev/icons?i=wireshark,kali,docker,git,githubactions,vscode" /> ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=hydra&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-EA3B24?style=for-the-badge&logo=shodan&logoColor=white)
 
-**AI Engineering**
+AI / ML
 
-`Transformers` · `Sentence Transformers` · `RAG` · `Qdrant` · `FAISS` · `CrewAI`
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,py" /> ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Local / Inference**
+Cloud & Infra
 
-`Ollama` · `llama.cpp` · `vLLM` · `Hugging Face`
-
-### Cybersecurity
-
-`Nmap` · `Burp Suite` · `Metasploit` · `Nessus` · `OpenVAS` · `Wireshark`
-
-`OWASP ZAP` · `ffuf` · `Gobuster` · `SQLMap` · `Hashcat` · `John the Ripper`
-
-### Development & Infrastructure
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,git,github,fastapi,postgresql,mongodb,kubernetes,aws, ollama,anthorpic,OpenAI,Kimi,Deepseek" />
-
-</p>
-
-### Areas of Interest
-
-`AI Security` · `Agentic AI` · `LLM Security` · `AI Red Teaming`
-
-`Offensive Security` · `Penetration Testing` · `RAG Security`
-
-`Prompt Injection` · `Jailbreak Testing` · `MITRE ATLAS` · `Autonomous Security`
-
-
-
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square)
-![Hashcat](https://img.shields.io/badge/-Hashcat-00BFFF?style=flat-square)
-![Shodan](https://img.shields.io/badge/-Shodan-EA3B24?style=flat-square)
-![Maltego](https://img.shields.io/badge/-Maltego-1E1E1E?style=flat-square)
-
-## 📊 Stats
-
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=prnvv2&show_icons=true&theme=radical&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnvv2&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions" />
+📊 Stats
+<div align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=prnvv2&show_icons=true&theme=radical&hide_border=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnvv2&layout=compact&theme=radical&hide_border=true" /> </div> <div align="center">
 
 Open to conversations on AI security, red teaming, and agentic systems 🤝
 
