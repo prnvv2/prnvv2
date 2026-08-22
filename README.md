@@ -1,53 +1,22 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Pranav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Agentic%20AI&descAlignY=58&descSize=18" width="100%"/>
 
-# Hi, I'm Pranav Amale
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Practitioner;AI+Security+Researcher;Agentic+AI+%7C+LLM+Security;Offensive+Security+%7C+Red+Teaming;Building+AI-Native+Security+Tools" />
+</a>
 
-### Cybersecurity Practitioner | Offensive Security | AI Security
+## 👋 About Me
 
-*Breaking things to understand how to secure them — now doing it to AI systems too.*
+I am a cybersecurity practitioner with hands-on experience in penetration testing, vulnerability assessment, and SOC operations. My work bridges traditional security with emerging AI threats—building AI-native tools and researching how LLMs, agentic systems, and autonomous workflows can transform offensive red-teaming and defensive blue-team strategies.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=550&lines=Penetration+Testing+%7C+Red+Teaming;LLM+%2F+Agentic+AI+Security;Prompt+Injection+%26+Jailbreak+Research;SOC+%7C+Threat+Hunting" alt="Typing SVG" />
+## 🔬 Research Interests
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+- LLM Security Testing & Prompt Injection Defense
+- AI Threat Modeling (MITRE ATLAS) & Red Teaming
+- RAG Security & AI Supply Chain Security
+- Agentic AI for Automated Security Operations
 
-</div>
+## 🤝 Connect with Me
 
-## 🎯 About
-
-Pentesting, vulnerability assessment, and SOC ops by trade. Obsessed with where **AI meets security** — building AI-native tools and exploring prompt injection, agentic threat modeling, and autonomous attack workflows.
-
-- 🔐 **Offensive:** recon → exploitation → post-exploitation → AD attacks → red teaming
-- 🤖 **AI Security:** prompt injection, jailbreaks, MITRE ATLAS, RAG security, AI red teaming
-- 🛡️ **SOC:** SIEM, threat hunting, MITRE ATT&CK/D3FEND, incident response
-
-## 🧰 Tools
-## Tech Stack
-🧪 Tech Stack
-
-OS
-
-<img src="https://skillicons.dev/icons?i=linux,kali,windows,bash" />
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,js,cpp,sql" />
-
-Security Tools
-
-<img src="https://skillicons.dev/icons?i=wireshark,kali,docker,git,githubactions,vscode" /> ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=hydra&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-EA3B24?style=for-the-badge&logo=shodan&logoColor=white)
-
-AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,py" /> ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-Cloud & Infra
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions" />
-📊 Stats
-<div align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=prnvv2&show_icons=true&theme=radical&hide_border=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnvv2&layout=compact&theme=radical&hide_border=true" /> </div> <div align="center">
-
-Open to conversations on AI security, red teaming, and agentic systems 🤝
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavamale/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PranavAmale)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pranavamale)
