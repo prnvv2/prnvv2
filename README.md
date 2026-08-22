@@ -1,123 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Pranav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Agentic%20AI&descAlignY=58&descSize=18" width="100%"/>
+# Hi, I'm prnvv2 👋
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Practitioner;AI+Security+Researcher;Agentic+AI+%7C+LLM+Security;Offensive+Security+%7C+Red+Teaming;Building+AI-Native+Security+Tools" />
-</a>
+### Cybersecurity Practitioner | Offensive Security | AI Security
+
+*Breaking things to understand how to secure them — now doing it to AI systems too.*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=550&lines=Penetration+Testing+%7C+Red+Teaming;LLM+%2F+Agentic+AI+Security;Prompt+Injection+%26+Jailbreak+Research;SOC+%7C+Threat+Hunting" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
 
----
+## 🎯 About
 
-## About Me
+Pentesting, vulnerability assessment, and SOC ops by trade. Obsessed with where **AI meets security** — building AI-native tools and exploring prompt injection, agentic threat modeling, and autonomous attack workflows.
 
-Cybersecurity practitioner exploring the intersection of **AI, Agentic AI, and Offensive Security**.
+- 🔐 **Offensive:** recon → exploitation → post-exploitation → AD attacks → red teaming
+- 🤖 **AI Security:** prompt injection, jailbreaks, MITRE ATLAS, RAG security, AI red teaming
+- 🛡️ **SOC:** SIEM, threat hunting, MITRE ATT&CK/D3FEND, incident response
 
-I build and research **AI-native security tools**, autonomous security workflows, LLM security testing, and offensive security automation.
+## 🧰 Tools
 
-> **Breaking systems. Building agents. Securing AI.**
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square)
+![Hashcat](https://img.shields.io/badge/-Hashcat-00BFFF?style=flat-square)
+![Shodan](https://img.shields.io/badge/-Shodan-EA3B24?style=flat-square)
+![Maltego](https://img.shields.io/badge/-Maltego-1E1E1E?style=flat-square)
 
----
+## 📊 Stats
 
-## Research & Interests
-
-`AI Security` `Agentic AI` `LLM Security` `AI Red Teaming`
-
-`Prompt Injection` `Jailbreak Testing` `RAG Security` `MITRE ATLAS`
-
-`Autonomous Pentesting` `Offensive Security` `Threat Modeling`
-
----
-
-## Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,bash,git,github,fastapi,postgresql,mongodb" />
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=kali,aws,terraform,kubernetes" />
-
-</p>
-
-**Security:** Nmap · Burp Suite · Metasploit · Nessus · Wireshark · OWASP ZAP · Hashcat
-
-**AI:** Ollama · Hugging Face · Transformers · CrewAI · Qdrant · RAG · Local LLMs
-
----
-
-## Current Focus
-
-```text
-AI Security
-    ├── LLM Red Teaming
-    ├── Agent Security
-    ├── Prompt Injection
-    ├── RAG Security
-    └── AI Threat Modeling
-
-Offensive Security
-    ├── Pentesting
-    ├── Red Teaming
-    ├── Adversary Simulation
-    └── Autonomous Security
-
-Research
-    ├── Agentic AI
-    ├── AI-native Security
-    └── Local LLM Security
-```
-
----
-
-## Featured Projects
-
-**AI-Driven Autonomous Penetration Testing**
-
-Multi-agent security platform for reconnaissance, vulnerability research, attack-path planning, controlled execution, and automated reporting.
-
-**Local AI Security Lab**
-
-A local, API-key-free environment for experimenting with LLM security, agent testing, RAG security, prompt injection, and AI red teaming.
-
----
-
-## GitHub Activity
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=prnvv2&show_icons=true&theme=radical&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnvv2&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 <div align="center">
 
-### Building at the intersection of AI × Cybersecurity
-
-**Research • Build • Break • Secure**
+Open to conversations on AI security, red teaming, and agentic systems 🤝
 
 </div>
