@@ -23,6 +23,50 @@ Pentesting, vulnerability assessment, and SOC ops by trade. Obsessed with where 
 - 🛡️ **SOC:** SIEM, threat hunting, MITRE ATT&CK/D3FEND, incident response
 
 ## 🧰 Tools
+## Tech Stack
+
+### AI / LLM
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+
+</p>
+
+**LLMs & Models**
+
+`Ollama` · `Hugging Face` · `DeepSeek` · `Kimi` · `Claude` · `Llama` · `Qwen` · `Mistral`
+
+**AI Engineering**
+
+`Transformers` · `Sentence Transformers` · `RAG` · `Qdrant` · `FAISS` · `CrewAI`
+
+**Local / Inference**
+
+`Ollama` · `llama.cpp` · `vLLM` · `Hugging Face`
+
+### Cybersecurity
+
+`Nmap` · `Burp Suite` · `Metasploit` · `Nessus` · `OpenVAS` · `Wireshark`
+
+`OWASP ZAP` · `ffuf` · `Gobuster` · `SQLMap` · `Hashcat` · `John the Ripper`
+
+### Development & Infrastructure
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,git,github,fastapi,postgresql,mongodb,kubernetes,aws" />
+
+</p>
+
+### Areas of Interest
+
+`AI Security` · `Agentic AI` · `LLM Security` · `AI Red Teaming`
+
+`Offensive Security` · `Penetration Testing` · `RAG Security`
+
+`Prompt Injection` · `Jailbreak Testing` · `MITRE ATLAS` · `Autonomous Security`
+
 
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square)
